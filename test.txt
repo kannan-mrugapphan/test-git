@@ -1,5 +1,7 @@
 The first line of the file.
 second line.
+a line in between second and third line.
 third line.
 fourth line.
 fifth line.
+sixth line.
